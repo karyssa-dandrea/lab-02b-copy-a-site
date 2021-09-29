@@ -30,7 +30,7 @@ main {
     grid-template-rows: 335px 335px; 
     grid-template-areas:
         "big story1 story2"
-        "big story3 story4"
+        "big story3 story4";
 }
 
 #big {
